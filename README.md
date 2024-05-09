@@ -1,18 +1,21 @@
-### Hi there 👋
+### Hi there 👋 Tanmoy Biswas here !
 
 <!--
 **tanmaybiswas007/tanmaybiswas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a driven and enthusiastic aspiring Data Analyst, dedicated to harnessing the power of data to uncover valuable insights. With a strong foundation in Python, SQL, Pandas, NumPy, Matplotlib, and basic machine learning techniques, I am eager to apply my analytical skills to solve real-world challenges and contribute to data-driven decision-making.
+
+My passion lies in transforming raw data into actionable intelligence that can drive meaningful change. I am excited about the prospect of leveraging my technical expertise to tackle complex problems, uncover hidden patterns, and provide data-backed recommendations that can positively impact organizations and the world around me.
+- 🔭  I am actively involved in exploring a range of data analysis projects while honing my expertise in data analysis and visualization techniques.
+
+- 👯 I am seeking opportunities to collaborate on entry-level data analysis projects or initiatives, where I can apply my skills and knowledge while learning from experienced professionals in the field.
+
+- 💬 Ask me about Geo-politics,Financial Markets,Warfare & Use of AI in all the above fields
+- 📫 You can find me :https://www.linkedin.com/in/biswas007/
+                      https://twitter.com/tanmay171/
+                      https://medium.com/@biswas007/
+                      https://tanmoysden.quora.com/
+- 😄 Pronouns: He/Him
 
 <script> // Get the current time in IST const date = new Date(); const offset = 5.5; // IST is 5 hours and 30 minutes ahead of UTC const istTime = date.getTime() + (date.getTimezoneOffset() * 60000) + (30 * 60000) + (offset * 60 * 60 * 1000); const istDate = new Date(istTime); // Get the hour in IST const hour = istDate.getHours(); // Display different images based on the time if (hour >= 6 && hour < 12) { // Display morning image document.getElementById("image").src = "https://your-github-username.github.io/your-repository-name/morning.png"; } else if (hour >= 12 && hour < 18) { // Display afternoon image document.getElementById("image").src = "https://your-github-username.github.io/your-repository-name/afternoon.png"; } else if (hour >= 18 && hour < 21) { // Display evening image document.getElementById("image").src = "https://your-github-username.github.io/your-repository-name/evening.png"; } else { // Display night image document.getElementById("image").src = "https://your-github-username.github.io/your-repository-name/night.png"; } </script> 

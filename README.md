@@ -15,4 +15,7 @@
                        https://tanmoysden.quora.com/
 - 😄 Pronouns: He/Him
 
+[![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/tanmay171)
+
+
 <script> // Get the current time in IST const date = new Date(); const offset = 5.5; // IST is 5 hours and 30 minutes ahead of UTC const istTime = date.getTime() + (date.getTimezoneOffset() * 60000) + (30 * 60000) + (offset * 60 * 60 * 1000); const istDate = new Date(istTime); // Get the hour in IST const hour = istDate.getHours(); // Display different images based on the time if (hour >= 6 && hour < 12) { // Display morning image document.getElementById("image").src = "https://your-github-username.github.io/your-repository-name/morning.png"; } else if (hour >= 12 && hour < 18) { // Display afternoon image document.getElementById("image").src = "https://your-github-username.github.io/your-repository-name/afternoon.png"; } else if (hour >= 18 && hour < 21) { // Display evening image document.getElementById("image").src = "https://your-github-username.github.io/your-repository-name/evening.png"; } else { // Display night image document.getElementById("image").src = "https://your-github-username.github.io/your-repository-name/night.png"; } </script> 

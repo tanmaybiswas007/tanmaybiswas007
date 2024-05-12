@@ -12,13 +12,14 @@
 
 - 😄 Pronouns: He/Him
   
-- 📫 You can find me :Twitter [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/tanmay171)
-- 
-Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswas007/)
+- 📫 You can find me :
+- Twitter [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/tanmay171)
+ 
+- Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswas007/)
 
-Medium: [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@your_medium_username](https://medium.com/@biswas007))
+- Medium: [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@your_medium_username](https://medium.com/@biswas007))
 
-Quora: [![Quora](https://img.shields.io/badge/Quora-00B7FF?style=for-the-badge&logo=quora&logoColor=white)]([https://www.quora.com/profile/your_quora_username](https://tanmoysden.quora.com/))
+- Quora: [![Quora](https://img.shields.io/badge/Quora-00B7FF?style=for-the-badge&logo=quora&logoColor=white)]([https://www.quora.com/profile/your_quora_username](https://tanmoysden.quora.com/))
 
 
 

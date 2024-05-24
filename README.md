@@ -36,11 +36,11 @@ window.onload = changeGif;
   
 - 📫 You can find me :
  
- [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/tanmay171)
+ [![Twitter](https://img.icons8.com/?size=100&id=xWVjuc9hryql&format=png&color=000000)](https://twitter.com/tanmay171)
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswas007/)
+ [![LinkedIn](https://img.icons8.com/?size=100&id=Tgi3DGfjUbUX&format=png&color=000000)](https://www.linkedin.com/in/biswas007/)
 
- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@your_medium_username](https://medium.com/@biswas007))
+ [![Medium](https://img.icons8.com/?size=100&id=CfRMH4SabFFs&format=png&color=000000)]([https://medium.com/@your_medium_username](https://medium.com/@biswas007))
 
- [![Quora](https://img.shields.io/badge/Quora-00B7FF?style=for-the-badge&logo=quora&logoColor=white)]([https://www.quora.com/profile/your_quora_username](https://tanmoysden.quora.com/))
+ [![Quora](https://img.icons8.com/?size=100&id=fQYnrRnVOVBS&format=png&color=000000)]([https://www.quora.com/profile/your_quora_username](https://tanmoysden.quora.com/))
 

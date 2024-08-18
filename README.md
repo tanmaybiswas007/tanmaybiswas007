@@ -1,3 +1,4 @@
+<img width =1200 src="https://github.com/tanmaybiswas007/tanmaybiswas007/blob/main/My%20Profile%20Banner.gif">
 <h3 align="center"> Hi there 👋 Tanmoy Biswas here ! </h3>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 <img align="right" alt="coding" width=400 src="https://apexx77.github.io/website/images/pro.gif">
